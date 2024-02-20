@@ -1,0 +1,10 @@
+.header {
+  background-color: rgb(78, 93, 114);
+}
+
+.profile_img {
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+  border: 3px solid #ffffff;
+}
